@@ -1,4 +1,5 @@
 <img src="flowRoot4168.png" width=200>
+ <img src="path4778-4.png" width=50>
 
 <br>
 Arati is a javascript framework that includes a router and a templating solution and it's base goal is
