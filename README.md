@@ -1,7 +1,6 @@
 <img src="flowRoot4168.png" width=200>
 
-# AratiJS
-
+<br>
 Arati is a javascript framework that includes a router and a templating solution and it's base goal is
 to be simple and fast(it's slow ATM).
 
